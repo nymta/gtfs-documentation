@@ -2,9 +2,9 @@
 
 ## 1. Scope
 
-This document specifies how MTA encodes station-specific and direction-specific impacts in GTFS-Realtime Service Alerts for subway feeds.
+This document specifies how MTA encodes station-specific and direction-specific impacts in GTFS Realtime Service Alerts for subway feeds.
 
-This document supplements the official GTFS-Realtime specification. Where this document is silent, consumers and producers should defer to the canonical GTFS-Realtime specification, including the definition of `EntitySelector`.
+This document supplements the official GTFS Realtime specification. Where this document is silent, consumers and producers should defer to the canonical GTFS Realtime specification, including the definition of `EntitySelector`.
 
 ## 2. Purpose
 
@@ -16,9 +16,9 @@ This representation is introduced to support more granular communication of Plan
 
 ### 3.1 Alert Entity
 
-Stations Affected information is conveyed within the GTFS-Realtime `alert.informed_entity` field.
+Stations Affected information is conveyed within the GTFS Realtime `alert.informed_entity` field.
 
-Each element of `informed_entity` should conform to the GTFS-Realtime `EntitySelector` type described in the official [GTFS Realtime specification](https://gtfs.org/documentation/realtime/feed-entities/service-alerts/#entityselector).
+Each element of `informed_entity` should conform to the GTFS Realtime `EntitySelector` type described in the official [GTFS Realtime specification](https://gtfs.org/documentation/realtime/feed-entities/service-alerts/#entityselector).
 
 ### 3.2 Station-Level Representation
 
