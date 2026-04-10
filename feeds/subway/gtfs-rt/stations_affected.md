@@ -142,6 +142,6 @@ Because `direction_id` is `1` on each entry, the alert applies only to the south
 
 ## 7. Developer Notes
 
-Stations Affected is an optional part of how MTA prepares and publishes alerts. Consumers should not assume that every alert will include Stations Affected data. Station-level tagging may be applied when a service change is considered significant enough to warrant that additional level of detail.
+Stations Affected is an optional part of how MTA prepares and publishes alerts. Consumers should not assume that every alert will include Stations Affected data. Stations Affected data will be tagged when a service change is considered significant enough to warrant that additional level of detail.
 
 This representation is initially introduced for planned service changes, and may be extended to unplanned service changes in the future.
