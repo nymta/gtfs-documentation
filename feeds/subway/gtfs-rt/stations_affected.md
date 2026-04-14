@@ -10,7 +10,7 @@ This document supplements the official GTFS Realtime specification. Where this d
 
 The Stations Affected representation enables developers to identify the specific stations and travel directions directly impacted by a service condition.
 
-This representation is intended to support more precise parsing, display, and rider messaging for Planned Work and other alert types where station-level impact detail is available.
+This representation is intended to support more precise parsing, display, and rider messaging for Planned Work where station-level impact detail is available.
 
 ## 3. Data Model
 
