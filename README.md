@@ -6,6 +6,11 @@ This repository supplements the published GTFS and GTFS Realtime (GTFS-RT) speci
 
 It is intended to help consumers understand how MTA data maps onto the official standards, not to replace the canonical GTFS or GTFS-RT specs.
 
+Documentation convention:
+
+- Specs should generally follow a consistent structure, including scope, purpose, data model, field definitions, processing rules, examples, and developer notes.
+- `Developer Notes` should be brief and used for implementation-specific context that helps consumers understand current MTA feed behavior, including limitations, caveats, or practical guidance when needed.
+
 Relevant resources:
 
 - [MTA Developers](https://www.mta.info/developers)
