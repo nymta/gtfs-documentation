@@ -17,3 +17,4 @@ Relevant resources:
 - [MTA data feed terms and conditions](https://www.mta.info/developers/terms-and-conditions)
 - [GTFS Schedule specification](https://gtfs.org/documentation/schedule/reference/)
 - [GTFS Realtime specification](https://gtfs.org/documentation/realtime/reference/)
+- [Using MTA Realtime Feeds](feeds/subway/gtfs-rt/using_realtime_feeds.md)
